@@ -1,6 +1,6 @@
 # DualCameraRecorder 🎥
 
-**DualCameraRecorder** es una aplicación de Android avanzada diseñada para creadores de contenido que necesitan capturar video en múltiples formatos simultáneamente. Con un solo toque, la aplicación graba dos archivos de video independientes: uno en formato panorámico (16:9) y otro en formato vertical (9:16), ambos optimizados y con la orientación correcta.
+**DualCameraRecorder** es una aplicación de Android avanzada diseñada para creadores de contenido que necesitan capturar video en múltiples formatos simultáneamente. Con un solo toque, la aplicación graba dos archivos de video independientes: uno en formato panorámico (16:9) y otro en formato vertical (9:16), ambos optimizados y con la orientación correcta. Probado en un Samsung S24+ (Procesador Exynos).
 
 ## ✨ Características Principales
 
