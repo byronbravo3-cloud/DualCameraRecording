@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- White outer ring -->
+    <item>
+        <shape android:shape="oval">
+            <stroke android:width="4dp" android:color="#FFFFFF" />
+            <size android:width="80dp" android:height="80dp" />
+        </shape>
+    </item>
+    <!-- Red inner square (rounded) -->
+    <item android:top="20dp" android:bottom="20dp" android:left="20dp" android:right="20dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#FF0000" />
+            <corners android:radius="8dp" />
+        </shape>
+    </item>
+</layer-list>

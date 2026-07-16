@@ -1,0 +1,3 @@
+- [x] Remove `sensorOrientation` from recording rotation logic in `DualCameraRecorder.kt`
+- [x] Fix source dimension swapping logic in `DualCameraRecorder.kt#drawFrame`
+- [x] Verify recording rotation in Portrait and Landscape
